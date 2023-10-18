@@ -27,7 +27,7 @@ void login()
 	cout << "\t\t\t\t\t@@|                                                                                       |@@\n";
 	cout << "\t\t\t\t\t@@|                                                                                       |@@\n";
 	cout << "\t\t\t\t\t@@|                                                                                       |@@\n";
-	cout << "\t\t\t\t\t@@|                                            Made by Harshit Kumar                      |@@\n";
+	cout << "\t\t\t\t\t@@|                                            Made by Shamsher sing                      |@@\n";
 	cout << "\t\t\t\t\t@@|_______________________________________________________________________________________|@@\n";
 	cout << "\t\t\t\t\t@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n\n\n\n\t\t\t\t\t";
 	cout << "Press any key to continue...";
