@@ -287,7 +287,7 @@ above:
 	else if (res == "3")
 	{
 		m[memberid].depar = "Chennai";
-		m[memberid].desti = "Delhi";
+		m[memberid].desti = "Pune";
 		m[memberid].f_name = "in002";
 	}
 
