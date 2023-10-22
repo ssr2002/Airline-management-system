@@ -66,7 +66,7 @@ void schedule()
 	cout << "\t\t\t\t\t\t<2>                 in001              Mumbai         Chennai"
 		 << "\t\t" << 40 - in1 << endl
 		 << endl;
-	cout << "\t\t\t\t\t\t<3>                 in002              Chennai          Delhi"
+	cout << "\t\t\t\t\t\t<3>                 in002              Chennai          Pune"
 		 << "\t\t" << 60 - in2 << endl
 		 << endl;
 	cout << "\t\t\t\t\t\t<4>                 in003              Delhi         Chennai"
